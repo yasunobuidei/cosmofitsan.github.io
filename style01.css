@@ -78,7 +78,7 @@ a {
     display: block;
     margin: auto;
     margin-left:7.5vw;
-    margin-top:-32.87vw;
+    margin-top:0vw;
     animation: ChangeImage 30s infinite;
     opacity: 0;
 }
