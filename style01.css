@@ -36,6 +36,7 @@ a {
  .app {
          width: 100vw;
          height: 100vh;
+         border: 1px solid blue;
          display: flex;
          flex-direction: column;
            }        
@@ -43,7 +44,7 @@ a {
          height: 15vw;
          background-color: transparent;
          box-sizing: border-box;
-         border: 0px solid blue;
+         border: 1px solid blue;
          position: sticky;
          top: 00px;
          display: flex;
@@ -55,6 +56,7 @@ a {
  
 .myChangeImage{
     position: relative;
+    border: 1px solid blue;
     width:85vw;
     display: block;
     margin-left:0vw;
@@ -64,6 +66,7 @@ a {
 
 .myChangeImage img{
     position: absolute;
+    border: 1px solid blue;
     top: 0;
     left: 0;
     width:85vw;
