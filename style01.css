@@ -87,8 +87,11 @@ a {
 .slide img {
   display: block;
   position: absolute;
-  width: inherit;
-  height: inherit;
+  width: 85vw;
+  margin: auto;
+  margin-bottom: 5vw;
+  margin-left: 7.5vw;
+  margin-top: 0;
   left: 100%;
   animation: slide-anime 30s ease infinite;
 }
