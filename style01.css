@@ -61,6 +61,7 @@ a {
  
 .myChangeImage{
     position:relative;
+    z-index: 0;
     border: 0px solid blue;
     width:85vw;
     display: block;
@@ -71,6 +72,7 @@ a {
 
 .myChangeImage img{
     position:absolute;
+    z-index: 1;
     border: 0px solid blue;
     top: 0;
     left: 0;
@@ -108,6 +110,7 @@ a {
 }
 .moji{
     position:relative;
+    z-index: 2;
     border: 0px solid blue;
     width:85vw;
     display: block;
@@ -118,6 +121,7 @@ a {
 
 .moji img{
     position:absolute;
+    z-index: 3;
     border: 0px solid blue;
     top: 0;
     left: 0;
@@ -130,6 +134,7 @@ a {
 }
 .tokusetu{
     position:relative;
+    z-index: 4;
     border: 0px solid blue;
     width:85vw;
     display: block;
@@ -140,6 +145,7 @@ a {
 
 .tokusetu a{
     position:absolute;
+    z-index: 5;
     border: 0px solid blue;
     top: 0;
     left: 0;
