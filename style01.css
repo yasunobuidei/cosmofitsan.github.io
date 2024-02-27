@@ -12,15 +12,15 @@
 /*　背景画像設定　*/
 
 .slider-item01 {
-    background:url(https://coco-factory.jp/ugokuweb/wp-content/themes/ugokuweb/data/6-1-1/img/img_01.jpg);
+    background:url(a1.png);
 }
 
 .slider-item02 {
-    background:url(https://coco-factory.jp/ugokuweb/wp-content/themes/ugokuweb/data/6-1-1/img/img_02.jpg);
+    background:url(a2.png);
 }
 
 .slider-item03 {
-    background:url(https://coco-factory.jp/ugokuweb/wp-content/themes/ugokuweb/data/6-1-1/img/img_03.jpg);
+    background:url(a3.png);
 }
 
 .slider-item {
