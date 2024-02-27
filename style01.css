@@ -57,6 +57,7 @@ a {
   position: relative;
   overflow: hidden;
   width: 85vw;
+  display: block; 
   margin: auto;
   margin-bottom: 5vw;
   margin-left: 7.5vw;
@@ -67,6 +68,7 @@ a {
   display: block;
   position: absolute;
   width: 85vw;
+  display: block; 
   margin: auto;
   margin-bottom: 5vw;
   margin-left: 7.5vw;
