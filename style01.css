@@ -110,10 +110,36 @@ a {
 #moji{width:85vw;
     display: block; 
     margin: auto;
-    margin-bottom:1vw;
+    margin-bottom:10vw;
     margin-left:7.5vw;
     margin-top:-43.516px;
      }
+.content {
+         display: flex;
+         flex-direction: row;
+         flex-grow: 1;
+         border: 0px solid blue;
+           }
+#left{width: 42.5vw;
+    display: block; 
+    margin: auto;
+    margin-bottom:1vw;
+    margin-left:7.5vw;
+    margin-top: 0px;
+
+ 
+ 
+ }
+ #right{width:42.5vw;
+    display: block; 
+    margin: auto;
+    margin-bottom:1vw;
+    margin-left:1vw;
+    margin-top: 0px;
+
+ 
+ 
+ }
 
  
  .footer {
