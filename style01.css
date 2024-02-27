@@ -52,28 +52,7 @@ a {
             
            }
  
- .main {
-         display: flex;
-         flex-direction: column;
-         flex-grow:1;
-           }
  
-
- .content {
-         display: flex;
-         flex-direction: row;
-         flex-grow: 1;
-           }
-           #photo{width: 40vw;
-            display: block; 
-            margin: auto;
-            margin-bottom: 5vw;
-            margin-left: 7.5vw;
-            margin-top: 0;
-            
-
- 
- }
 .slide {
   position: relative;
   overflow: hidden;
