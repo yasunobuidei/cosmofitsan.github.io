@@ -42,14 +42,14 @@ a {
            }        
  .header {
          height:15vw;
-         background-color: transparent;
-         box-sizing: border-box;
+         background-color:transparent;
+         box-sizing:border-box;
          border: 0px solid blue;
-         position: sticky;
+         position:sticky;
          top: 00px;
-         display: flex;
+         display:flex;
          flex-direction:row;
-         flex-grow: 1;
+         flex-grow:1;
             
            }
 .main {
