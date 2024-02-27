@@ -55,9 +55,8 @@ a {
  
 .myChangeImage{
     position: relative;
-    width : 400px;
-    height : 225px;
-    border : 1px solid;
+    width:85vw;
+    display: block;
 }
 
 .myChangeImage img{
