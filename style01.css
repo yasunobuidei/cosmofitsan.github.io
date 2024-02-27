@@ -41,7 +41,7 @@ a {
          flex-direction: column;
            }        
  .header {
-         height: 15vw;
+         height:15vw;
          background-color: transparent;
          box-sizing: border-box;
          border: 1px solid blue;
