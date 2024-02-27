@@ -71,7 +71,6 @@ a {
 
 .myChangeImage img{
     position:absolute;
-    z-index: 0;
     border: 0px solid blue;
     top: 0;
     left: 0;
@@ -109,8 +108,7 @@ a {
 }
 
 #moji{width:85vw;
-    position:absolute;
-      z-index: 1;
+    
     display: block; 
     margin: auto;
     margin-bottom:0vw;
@@ -118,8 +116,7 @@ a {
     margin-top:-43.516vw;
      }
 #tokusetu{width:15.86vw;
-          position:absolute;
-      z-index: 2;
+        
     display: block; 
     margin: auto;
     margin-bottom:20vw;
