@@ -57,6 +57,8 @@ a {
     position: relative;
     width:85vw;
     display: block;
+    margin-left:85vw;
+    
 }
 
 .myChangeImage img{
