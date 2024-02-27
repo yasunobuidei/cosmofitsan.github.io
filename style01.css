@@ -60,7 +60,6 @@ a {
  
  
 .myChangeImage{
-    position: relative;
     border: 0px solid blue;
     width:85vw;
     display: block;
@@ -70,7 +69,6 @@ a {
 }
 
 .myChangeImage img{
-    position: absolute;
     border: 0px solid blue;
     top: 0;
     left: 0;
