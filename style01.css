@@ -77,10 +77,12 @@ a {
 .slide {
   position: relative;
   overflow: hidden;
-  width: 300px;
-  height: 300px;
+  width: 85vw;
   margin: auto;
-  background: #fff;
+  margin-bottom: 5vw;
+  margin-left: 7.5vw;
+  margin-top: 0;
+  background: #ffffff;
 }
 .slide img {
   display: block;
