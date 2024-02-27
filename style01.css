@@ -106,7 +106,7 @@ a {
 .myChangeImage img:nth-of-type(5) {
     animation-delay: 24s;
 }
-.uenomoji{
+.moji{
     position:relative;
     border: 0px solid blue;
     width:85vw;
@@ -116,7 +116,7 @@ a {
     
 }
 
-.uenomoji img{
+.moji img{
     position:absolute;
     border: 0px solid blue;
     top: 0;
@@ -126,17 +126,31 @@ a {
     margin: auto;
     margin-left:7.5vw;
     margin-top:0vw;
-    animation: ChangeImage 30s infinite;
-    opacity: 0;
+    
 }
-#tokusetu{width:15.86vw;
-        
-    display: block; 
+.tokusetu{
+    position:relative;
+    border: 0px solid blue;
+    width:85vw;
+    display: block;
+    margin-left:0vw;
+    margin-top:0vw;
+    
+}
+
+.tokusetu a{
+    position:absolute;
+    border: 0px solid blue;
+    top: 0;
+    left: 0;
+    width:15.86vw;
+    display: block;
     margin: auto;
-    margin-bottom:20vw;
     margin-left:71.73vw;
-    margin-top:-5.6vw;
-     }
+    margin-top:37.925vw;
+    
+}
+
 .content {
          display: flex;
          flex-direction: row;
