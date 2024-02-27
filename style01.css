@@ -247,6 +247,33 @@ a {
   100% {left: -100%;}
 }
 
+.content {
+         display: flex;
+         flex-direction:column;
+         flex-grow: 1;
+         border: 0px solid blue;
+           }
+#left{width: 85vw;
+    display: block; 
+    margin: auto;
+    margin-bottom:10vw;
+    margin-left:7.5vw;
+    margin-top: 0px;
+
+ 
+ 
+ }
+ #right{width:85vw;
+    display: block; 
+    margin: auto;
+    margin-bottom:10vw;
+    margin-left:7.5vw;
+    margin-top: 0px;
+
+ 
+ 
+ }
+
 
   
    .footer {
