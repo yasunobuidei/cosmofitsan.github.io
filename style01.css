@@ -68,6 +68,7 @@ a {
     left: 0;
     width:85vw;
     display: block;
+    margin: auto;
     margin-left:7.5vw;
     margin-top:-32.87vw;
     animation: ChangeImage 30s infinite;
