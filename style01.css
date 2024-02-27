@@ -110,9 +110,16 @@ a {
 #moji{width:85vw;
     display: block; 
     margin: auto;
-    margin-bottom:10vw;
+    margin-bottom:0vw;
     margin-left:7.5vw;
     margin-top:-43.516vw;
+     }
+#tokusetu{width:15.86vw;
+    display: block; 
+    margin: auto;
+    margin-bottom:20vw;
+    margin-left:71.73vw;
+    margin-top:-5.6vw;
      }
 .content {
          display: flex;
