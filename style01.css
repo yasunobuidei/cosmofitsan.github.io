@@ -162,6 +162,16 @@ a {
     margin-top:0vw;
     
 }
+.tokusetusp{
+    position:relative;
+    z-index: 4;
+    border: 0px solid blue;
+    width:15.86vw;
+    display: none;
+    margin-left:0vw;
+    margin-top:0vw;
+    
+}
 
 .tokusetu img{
     position:absolute;
@@ -385,7 +395,7 @@ a {
     
 }
 
-.tokusetu{
+.tokusetusp{
     position:relative;
     z-index: 4;
     border: 0px solid blue;
@@ -395,8 +405,18 @@ a {
     margin-top:0vw;
     
 }
+.tokusetu{
+    position:relative;
+    z-index: 4;
+    border: 0px solid blue;
+    width:15.86vw;
+    display: none;
+    margin-left:0vw;
+    margin-top:0vw;
+    
+}
 
-.tokusetu img{
+.tokusetusp img{
     position:absolute;
     z-index: 5;
     border: 0px solid blue;
