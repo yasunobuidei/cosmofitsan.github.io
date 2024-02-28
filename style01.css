@@ -380,6 +380,31 @@ a {
     margin-top:0vw;
     
 }
+
+.tokusetu{
+    position:relative;
+    z-index: 4;
+    border: 0px solid blue;
+    width:36.87vw;
+    display: block;
+    margin-left:0vw;
+    margin-top:0vw;
+    
+}
+
+.tokusetu img{
+    position:absolute;
+    z-index: 5;
+    border: 0px solid blue;
+    top: 0;
+    left: 0;
+    width:36.87vw;
+    display: block;
+    margin: auto;
+    margin-left:52.3vw;
+    margin-top:138.84vw;
+    
+}
 #left1{width: 85vw;
     display: block; 
     margin: auto;
