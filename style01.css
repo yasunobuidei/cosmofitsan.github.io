@@ -184,7 +184,8 @@ a {
          border: 0px solid blue;
            }
 #left1{width: 42.5vw;
-    display: block; 
+    display: block;
+    border: 1px solid blue;
     margin: auto;
     margin-bottom:2vw;
     margin-left:7.5vw;
@@ -192,7 +193,8 @@ a {
     margin-top: 50vw;
      }
  #right1{width:42.5vw;
-    display: block; 
+    display: block;
+    border: 1px solid blue;
     margin: auto;
     margin-bottom:2vw;
     margin-left:0vw;
@@ -200,7 +202,8 @@ a {
     margin-top: 50vw;
        }
 #left{width: 42.5vw;
-    display: block; 
+    display: block;
+    border: 1px solid blue;
     margin: auto;
     margin-bottom:2vw;
     margin-left:7.5vw;
@@ -208,7 +211,8 @@ a {
     margin-top: 0px;
      }
  #right{width:42.5vw;
-    display: block; 
+    display: block;
+    border: 1px solid blue;
     margin: auto;
     margin-bottom:2vw;
     margin-left:0vw;
