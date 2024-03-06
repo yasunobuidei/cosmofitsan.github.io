@@ -6,12 +6,44 @@ a {
     color: #4d4d4d;;
   }
 
-  body {
-    background-color:#FFFFFC;
-  }
+  
 
 
 @media screen and (min-width:768px) {
+    body {
+    background-color:#fffffc;
+    font-family:"游明朝体","游明朝","serif";
+  }
+ p{display: inline-block; 
+   font-size:11pt;
+   width: 48.8vw;
+   letter-spacing: 0.1em;
+   line-height: 2.2em;
+   margin-top: -3.98vw;
+   margin-left: 0.8vw;
+   margin-bottom: 0vw;
+     
+ }
+    p1{display: inline-block; 
+   font-size:11pt;
+   width: 24vw;
+   letter-spacing: 0.1em;
+   line-height: 2.2em;
+   margin-top: -3.98vw;
+   margin-left: 0.8vw;
+   margin-bottom: 0vw;
+     
+ }
+    p2{display: inline-block; 
+   font-size:11pt;
+   width: 48.8vw;
+   letter-spacing: 0.1em;
+   line-height: 2.2em;
+   margin-top: 0vw;
+   margin-left: 0.8vw;
+   margin-bottom: 4.95vw;
+     
+ }
  #name{width:24vw;
         display: block; 
         margin-top: 0.8vw;
@@ -135,6 +167,13 @@ a {
          flex-grow: 1;
          border: 0px solid blue;
            }
+.pp {
+         display: flex;
+         flex-direction: row;
+         flex-grow: 1;
+         border: 0px solid blue;
+           }
+
 #left1{width: 49.2vw;
     display: block;
     border: 1px gray;
