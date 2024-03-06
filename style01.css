@@ -300,7 +300,7 @@ p4{display: inline-block;
    width: 96.13vw;
    letter-spacing: 0.1em;
    line-height: 1.8em;
-   margin-top: 55.22vw;
+   margin-top: 0vw;
    margin-left: 0.8vw;
    margin-bottom: 0vw;
      
@@ -373,7 +373,7 @@ p4{display: inline-block;
     width:96.13vw;
     display: block;
     margin-left:0vw;
-    margin-top:0vw;
+    margin-top:vw;
     
 }
 .myChangeImage{
@@ -397,7 +397,7 @@ p4{display: inline-block;
     display: block;
     margin: auto;
     margin-left:1.93vw;
-    margin-top:0vw;
+    margin-top:9vw;
     animation: ChangeImage 30s infinite;
     opacity: 0;
 }
