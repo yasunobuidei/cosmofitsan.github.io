@@ -12,18 +12,22 @@ a {
 
 
 @media screen and (min-width:768px) {
- #name{width:15vw;
+ #name{width:24vw;
         display: block; 
-        margin-top: 3vw;
-        margin-left: 7.5vw;
-        margin-right: 7.5vw;
-        margin-bottom: 3vw;
+        margin-top: 0.8vw;
+        margin-left: 0.8vw;
+        margin-right: 25.66vw;
+        margin-bottom: 7.94vw;
     }
     }
- #menu1{height:2.25vw;
+ #menu1{width:12.33vw;
     display: block; 
-    margin-top: 3vw;
-    margin-left: 1vw;}
+    margin-top: 0.8vw;
+    margin-left: 0vw;}
+ #menu2{width:20.35vw;
+    display: block; 
+    margin-top: 0.8vw;
+    margin-left: 0vw;}
         #menu{width: 0px;
             display: block; 
             margin: auto;}
@@ -31,6 +35,11 @@ a {
                 display: block; 
                 margin-top: 2.7vw;
                 margin-left: 5vw;}
+#taiyo{width: 3.73vw;
+       height: 3.73vw;
+            display: block;
+            margin-top:0.8vw;
+      margin-left: 0vw;}
  
 
  .app {
@@ -246,26 +255,37 @@ a {
  @media screen  and ( max-width:768px) {
  
      
-  #name{width: 23vw;
+ #name{width: 50.45vw;
     display: block; 
-    margin-left:2.5vw;
-    margin-top: 3vw;
-    margin-bottom: 5vw;
+    margin-left:4.45vw;
+    margin-top: 7.34vw;
+    margin-bottom:17.18vw;
     }
 #menu1{width:0px;
-    display: block; 
+    display:none; 
     margin: auto;
     position: absolute;
     top:10px;
     right:auto;}
-    #menu{width: 10vw;
+     #menu2{width:0vw;
+    display: none; 
+    margin-top: 3vw;
+    margin-left: 0vw;}
+    #menu{width: 7.84vw;
         display: block; 
-        margin-left:7.5vw;
-        margin-top: 3vw;
-        margin-bottom: 5vw;
+        margin-left:1.93vw;
+        margin-top: 7.34vw;
+        margin-bottom:17.18vw;
+        }
+     #taiyo{width: 7.84vw;
+            height: 7.84vw;
+        display: block; 
+        margin-left:25.97vw;
+        margin-top: 7.34vw;
+        margin-bottom:17.18vw;
         }
         #instagram{width: 00px;
-            display: block; 
+            display: none; 
             margin: auto;
             position: absolute;
             top:10px;
