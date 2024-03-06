@@ -245,6 +245,66 @@ p4{display: inline-block;
  
  
  @media screen  and ( max-width:768px) {
+     body {
+    background-color:#fffffc;
+    font-family:"游明朝体","游明朝","serif";
+  }
+     .pp {
+         display: flex;
+         flex-direction: column;
+         flex-grow: 1;
+         border: 0px solid blue;
+           }
+ p{display: none; 
+   font-size:11pt;
+   width: 48.8vw;
+   letter-spacing: 0.1em;
+   line-height: 1.8em;
+   margin-top: -3.98vw;
+   margin-left: 0.8vw;
+   margin-bottom: 0vw;
+     
+ }
+    p1{display: none; 
+   font-size:11pt;
+   width: 24vw;
+   letter-spacing: 0.1em;
+   line-height: 2.2em;
+   margin-top: -3.98vw;
+   margin-left: 0.8vw;
+   margin-bottom: 0vw;
+     
+ }
+    p2{display: none; 
+   font-size:11pt;
+   width: 48.8vw;
+   letter-spacing: 0.1em;
+   line-height: 2.2em;
+   margin-top: 0vw;
+   margin-left: 0.8vw;
+   margin-bottom: 4.95vw;
+     
+ }
+    p3{display: inline-block; 
+   font-size:9.5pt;
+   width: 96.13vw;
+   letter-spacing: 0.1em;
+   line-height: 1.8em;
+   margin-top: 55.22vw;
+   margin-left: 0.8vw;
+   margin-bottom: 0vw;
+     
+ }
+p4{display: inline-block; 
+   font-size:9.5pt;
+   width: 96.13vw;
+   letter-spacing: 0.1em;
+   line-height: 1.8em;
+   margin-top: 55.22vw;
+   margin-left: 0.8vw;
+   margin-bottom: 0vw;
+     
+ }
  
      
  #name{width: 50.45vw;
