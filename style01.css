@@ -135,36 +135,36 @@ a {
          flex-grow: 1;
          border: 0px solid blue;
            }
-#left1{width: 42.5vw;
+#left1{width: 49.2vw;
     display: block;
     border: 1px solid blue;
     margin: auto;
     margin-bottom:2vw;
-    margin-left:7.5vw;
+    margin-left:0.8vw;
     margin-right:0vw;
     margin-top: 50vw;
      }
- #right1{width:42.5vw;
+ #right1{width:49.2vw;
     display: block;
-    border: 1px solid blue;
+    border: 1px black;
     margin: auto;
     margin-bottom:2vw;
     margin-left:0vw;
     margin-right:0vw;
     margin-top: 50vw;
        }
-#left{width: 42.5vw;
+#left{width: 49.2vw;
     display: block;
-    border: 1px solid blue;
+    border: 1px black;
     margin: auto;
     margin-bottom:2vw;
-    margin-left:7.5vw;
+    margin-left:0.8vw;
     margin-right:0vw;
     margin-top: 0px;
      }
- #right{width:42.5vw;
+ #right{width:49.2vw;
     display: block;
-    border: 1px solid blue;
+    border: 1px black;
     margin: auto;
     margin-bottom:2vw;
     margin-left:0vw;
